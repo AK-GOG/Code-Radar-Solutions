@@ -8,6 +8,6 @@ char* welcome()
 int main() 
 {
     float a;
-    a=3.14;
-    printf("&f",a);
+    scanf("%f",&a);
+    printf("you entered: &f",a);
 }
