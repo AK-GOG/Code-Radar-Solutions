@@ -2,7 +2,7 @@
 int main()
 {
     char a;
-    scanf("%c",a);
+    scanf("%c",&a);
     int fg =  a;
     printf("ASCII Value: %d",fg);
     return 0;
